@@ -8,3 +8,5 @@ Tapahtuipa!!
 [komentorivi.txt](https://github.com/skluoto/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 Josko tää tästä...
+
+Ja sitten sekoitetaan
