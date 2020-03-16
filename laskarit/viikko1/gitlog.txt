@@ -1,0 +1,122 @@
+commit a914e5f51e2784eb310dc55b0e9f1ffa9aab17c1
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 15:39:13 2020 +0200
+
+    poisto ja muutos
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0269d9123b57366e864ed41221db3f3a303cb51c
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 15:34:29 2020 +0200
+
+    file1 commitoitu
+
+ file1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit cd7a6c03bedac118cb89d4da0730d8ad4239c038
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 15:23:34 2020 +0200
+
+    hakemisto + 3 tiedostoa
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 72b07112e3fd5e090c98827a6f35e9c30b5e2318
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 15:10:04 2020 +0200
+
+    muutoksia
+
+ eka.txt    | 13 ++-----------
+ kolmas.txt |  1 +
+ 2 files changed, 3 insertions(+), 11 deletions(-)
+
+commit eced5cd4b748c53e4081871624e536d736bc1ed9
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 15:06:23 2020 +0200
+
+    tiedoston nimen vaihto
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 20dd1dc5cd0c41f132d3fe6123722af58f209e15
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 15:02:19 2020 +0200
+
+    tiedoston poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 023ca78240a0ebfa79f029df9dc6ed6090044554
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:59:16 2020 +0200
+
+    poisto ja lisäys
+
+ tiedosto.txt | 11 +++++++----
+ 1 file changed, 7 insertions(+), 4 deletions(-)
+
+commit 73cb8425cf91dbab25dd58f37181999fd982dab7
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:55:32 2020 +0200
+
+    paljon tekstiä
+
+ tiedosto.txt | 65 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 65 insertions(+)
+
+commit 255c6e131cfd501ba84cfdd749276130c884e258
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:46:36 2020 +0200
+
+    uusi tiedosto
+
+ joku.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 87fe1f48fc58bffc93e5b686881bf2d0e00ca574
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:43:42 2020 +0200
+
+    sisältöä muutettu
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit eef5661b80f0aa14cfcd4eb4c197dd83168992d7
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:40:52 2020 +0200
+
+    uusi tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7c2e57a15484df0c3e1432b8623fb3229244f63f
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:32:03 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit c3409ff65f52b4d9597b030d26e07cc9bb40b386
+Author: suvi luoto <suvi.luoto@helsinki.fi>
+Date:   Thu Mar 12 14:26:22 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
